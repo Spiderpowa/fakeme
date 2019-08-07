@@ -1,5 +1,5 @@
 {
-  "name": "fakeme",
+  "name": "@jim2212001/fakeme",
   "version": "0.4.0",
   "description": "Random generate name, email, address, id...",
   "main": "./lib/fakeme.cjs.js",
@@ -56,5 +56,10 @@
   ],
   "dependencies": {
     "random-seed": "^0.3.0"
+  },
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
   }
 }
